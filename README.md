@@ -41,3 +41,12 @@ Defect_Detection/
 ├── defect_model.h5
 ├── requirements.txt
 ├── README.md
+
+
+### Model File
+
+The trained model (.h5) is not included due to GitHub size limits.
+
+To generate it locally, run:
+
+python train_defect.py
